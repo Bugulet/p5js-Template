@@ -1,2 +1,2 @@
 # p5js-Template
-Template project for p5js based projects
+Template for p5js based projects
